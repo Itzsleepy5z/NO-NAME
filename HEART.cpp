@@ -553,7 +553,7 @@ int main()
     cout << "      #@@@#$#$##\n";
     */
    while (true){
-      cout << "Happy Birth Day Mommy\n";
+      cout << "Happy BirthDay Mommy\n";
       cout << "\n    chose your mode 1 2 3 4     OR END THE PROGRAM(TYPE 5)\n";
       int n,m;
       cin >> n;
